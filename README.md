@@ -1,2 +1,2 @@
 My first readme
-Readme edited from git interface
+Readme from interface
